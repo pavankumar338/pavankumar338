@@ -65,7 +65,10 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumar338&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+### 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 📌 Top Projects & Repositories
 
