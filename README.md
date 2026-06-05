@@ -92,9 +92,6 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavankumar338&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</div>
 
 ---
 
