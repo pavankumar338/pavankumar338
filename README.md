@@ -66,27 +66,6 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 📌 Top Projects & Repositories
-
-<p align="center">
-  <a href="https://github.com/pavankumar338/EDU-Manage">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=EDU-Manage&theme=tokyonight&hide_border=true](https://camo.githubusercontent.com/1707bd9127c0423053cd45a8583bfdd3c1e394b6babd2c5da0f4b556ddbe0b0e/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d74656c6c6170616c6c79616b68696c266c61796f75743d636f6d70616374267468656d653d6461726b)" />
-  </a>
-  <a href="https://github.com/pavankumar338/FarmersMarket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=FarmersMarket&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pavankumar338/GDG-KARE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=GDG-KARE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/pavankumar338/calender-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=calender-frontend&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-**[View All Repositories →](https://github.com/pavankumar338?tab=repositories)**
 
 ---
 
