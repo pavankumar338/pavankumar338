@@ -48,13 +48,10 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavankumar338&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=pavankumar338&theme=tokyonight&hide_border=true" width="48%" />
+
 </p>
 
-### Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar338&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
+
 
 ---
 
@@ -94,10 +91,6 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
 
 ---
 
@@ -115,6 +108,6 @@ I'm always excited to work on interesting projects, contribute to open-source in
 
 **"Code is poetry written in a language computers can understand. Let's create something amazing together!"**
 
-**Made with ❤️ by Kode Pavan Kumar**
+
 
 </p>
