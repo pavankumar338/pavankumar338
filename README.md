@@ -47,8 +47,7 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankumar338&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-
+  <img src="https://streak-stats.demolab.com?user=pavankumar338&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
@@ -71,7 +70,7 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
 
 <p align="center">
   <a href="https://github.com/pavankumar338/EDU-Manage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=EDU-Manage&theme=tokyonight&hide_border=true" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=EDU-Manage&theme=tokyonight&hide_border=true](https://camo.githubusercontent.com/1707bd9127c0423053cd45a8583bfdd3c1e394b6babd2c5da0f4b556ddbe0b0e/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d74656c6c6170616c6c79616b68696c266c61796f75743d636f6d70616374267468656d653d6461726b)" />
   </a>
   <a href="https://github.com/pavankumar338/FarmersMarket">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=FarmersMarket&theme=tokyonight&hide_border=true" />
