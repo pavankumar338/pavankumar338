@@ -79,27 +79,29 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumar338&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
-### Contribution Snake (Animated)
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavankumar338/pavankumar338/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavankumar338/pavankumar338/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavankumar338/pavankumar338/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
-
-
----
-
-## 📌 Top Contributed Repositories
+## 📌 Top Projects & Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=pavankumar338&theme=tokyonight&hide_border=true" alt="Top Repo" />
+  <a href="https://github.com/pavankumar338/EDU-Manage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=EDU-Manage&theme=tokyonight&hide_border=true" alt="EDU-Manage" />
+  </a>
+  <a href="https://github.com/pavankumar338/FarmersMarket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=FarmersMarket&theme=tokyonight&hide_border=true" alt="FarmersMarket" />
+  </a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/pavankumar338/GDG-KARE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=GDG-KARE&theme=tokyonight&hide_border=true" alt="GDG-KARE" />
+  </a>
+  <a href="https://github.com/pavankumar338/calender-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=calender-frontend&theme=tokyonight&hide_border=true" alt="Calendar Frontend" />
+  </a>
+</div>
+
+**[View All Repositories →](https://github.com/pavankumar338?tab=repositories)**
 
 ---
 
