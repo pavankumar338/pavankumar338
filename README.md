@@ -72,10 +72,36 @@ I'm a **passionate Software Developer** and **Fresher** with a strong foundation
 
 ---
 
+## 📈 Contribution Activity
+
+### Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumar338&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+### Contribution Snake (Animated)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavankumar338/pavankumar338/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavankumar338/pavankumar338/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavankumar338/pavankumar338/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pavankumar338&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📌 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavankumar338&repo=pavankumar338&theme=tokyonight&hide_border=true" alt="Top Repo" />
 </div>
 
 ---
