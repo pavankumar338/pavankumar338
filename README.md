@@ -9,27 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Enthusiast;Frontend+Specialist;Always+Learning+New+Things" alt="typing svg" />
 </p>
 
-# 💫 About Me:
-🔨 I'm currently working on:<br>
-• Building responsive, scalable web applications<br>
-• Modern full-stack projects with React.JS and Next.JS<br><br>
+I'm a **passionate Software Developer** and **Fresher** with a strong foundation in modern web technologies. I specialize in building responsive, scalable web applications using React.JS and Next.JS. I'm committed to writing clean, efficient code and constantly expanding my technical expertise.
 
-🤝 I'm looking to collaborate on:<br>
-• Open-source projects<br>
-• Innovative web applications and startups<br><br>
-
-🆘 I'm looking for help with:<br>
-• Advanced backend optimization<br>
-• Cloud architecture and deployment strategies<br><br>
-
-🌱 I'm currently learning:<br>
-• Advanced React patterns and performance optimization<br>
-• Full-stack development with Next.JS<br>
-• Cloud services with Azure<br><br>
-
-⚡ Fun fact:<br>
-• I enjoy transforming complex problems into elegant, user-friendly solutions.<br>
-
+- 🚀 Transforming ideas into elegant digital solutions
+- 💡 Passionate about problem-solving and continuous learning
+- 🌐 Creating content on Instagram and sharing knowledge with the community
+- 📱 Always eager to collaborate on interesting projects
+- 🎯 Focused on delivering high-quality, user-centric applications
 ---
 
 ## 🌐 Socials:
